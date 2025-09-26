@@ -28,8 +28,8 @@ To set up the project:
 1. Clone the repository:
 
 ```bash
-git clone https://github.ecodesamsung.com/harshitkumar-singh2022/Robust-Invisible-Watermarking-for-AI-Generated-Images-Using-CNN-ViT.git
-cd robust-watermarking
+git clone https://github.com/harshitsinghcode/Robust-Invisible-Watermarking-for-AI-Generated-Images-Using-CNN-and-ViT.git
+cd Robust-Invisible-Watermarking-for-AI-Generated-Images-Using-CNN-and-ViT
 ```
 
 2. Install dependencies:
@@ -123,25 +123,6 @@ Robust-Invisible-Watermarking/
 
 ---
 
-## 🤝 **Contributors**
-
-This innovative project was developed as part of the Samsung PRISM Program by:
-
-### Team Members:
-
-- Ridhi Agarwalla
-- Soumya Ranjan Nayak
-- Pranav Seelam
-- A Harsha
-- Harshit Kumar Singh
-
-
-### Mentors:
-
-- Dr. Pavithra S
-- Dr. Parvathi R
-
----
 
 ## 🏆 **Acknowledgments**
 
@@ -149,17 +130,3 @@ We extend our gratitude to Samsung PRISM Program for providing us with this oppo
 
 Special thanks to our mentors for their invaluable guidance throughout this journey.
 
----
-
-## 📅 **Timeline**
-
-The project commenced on **August 12th, 2024**, and after months of rigorous development, testing, and refinement, it has reached completion in **April 2025.**
-
----
-
-## 📜 **License**
-
-This project is licensed under the **MIT License**. Feel free to use, modify, or contribute!
-=======
-# VITC_24OD16VITC_AI_ML_Digital_Watermark_for_Identifying_AI_generated_Images
-SRIB-PRISM Program
