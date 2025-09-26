@@ -7,8 +7,6 @@ This project presents a state-of-the-art **deep learning-based watermarking syst
 Developed under the prestigious **Samsung PRISM Program**, this project represents an innovative approach to intellectual property protection for AI-generated content.
 
 ---
-![image](https://github.ecodesamsung.com/harshitkumar-singh2022/Robust-Invisible-Watermarking-for-AI-Generated-Images-Using-CNN-ViT/assets/33519/e50cf406-5ba5-403a-885e-16e06a013872)
----
 ## ✨ **Key Features**
 
 - **CNN-Based Watermarking**: A CNN encoder-decoder model for embedding and extracting invisible watermarks.
@@ -44,7 +42,8 @@ pip install -r requirements.txt
     - Install CUDA if you plan to train models on a GPU.
 
 ---
-![WhatsApp Image 2025-05-30 at 13 28 50_99d448ca](https://github.ecodesamsung.com/SRIB-PRISM/Robust-Invisible-Watermarking-for-AI-Generated-Images-Using-CNN-ViT/assets/33519/23f8cf69-9fd2-4574-88ee-4d61ef95244b)
+
+<img width="2560" height="921" alt="image" src="https://github.com/user-attachments/assets/fe2a7440-5f14-48f8-897c-3db9352834f6" />
 
 
 ## 🚀 **How to Use**
